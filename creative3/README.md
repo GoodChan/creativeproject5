@@ -1,6 +1,7 @@
 # creativepro3
 
 > A Vue.js project
+An ice cream shop website that has a user login and request for pickup.
 
 ## Build Setup
 
